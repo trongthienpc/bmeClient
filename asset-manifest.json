@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bmeClient/static/css/main.85dcbe3b.css",
+    "main.js": "/bmeClient/static/js/main.0c6d0525.js",
+    "static/js/787.ee6be7f0.chunk.js": "/bmeClient/static/js/787.ee6be7f0.chunk.js",
+    "index.html": "/bmeClient/index.html",
+    "main.85dcbe3b.css.map": "/bmeClient/static/css/main.85dcbe3b.css.map",
+    "main.0c6d0525.js.map": "/bmeClient/static/js/main.0c6d0525.js.map",
+    "787.ee6be7f0.chunk.js.map": "/bmeClient/static/js/787.ee6be7f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85dcbe3b.css",
+    "static/js/main.0c6d0525.js"
+  ]
+}
